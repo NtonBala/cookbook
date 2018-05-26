@@ -22,6 +22,7 @@
   "homepage": "https://github.com/NtonBala/cookbook#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "mongodb": "^2.2.25",
     "react": "^16.3.1",
     "react-dom": "^16.3.1"
   },
@@ -33,6 +34,10 @@
     "clean-webpack-plugin": "^0.1.19",
     "concurrently": "^3.5.1",
     "css-loader": "^0.28.11",
+    "eslint": "^4.19.1",
+    "eslint-plugin-destructuring": "^2.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-react": "^7.8.2",
     "html-webpack-plugin": "^3.2.0",
     "nodemon": "^1.17.3",
     "style-loader": "^0.20.3",

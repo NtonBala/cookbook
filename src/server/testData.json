@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Simple Hamburger Stroganoff",
+      "meta": {
+        "date": "",
+        "author": "Jessica",
+        "link": "https://www.allrecipes.com/recipe/23260/simple-hamburger-stroganoff/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+      },
+      "description": "I've always loved the taste of a good Stroganoff, but I hated the expense and preparation of beef tips or steak or roast beef to make it. So I created my own creamy Stroganoff.",
+      "ingredients": [
+        "1 (16 ounce) package egg noodles",
+        "1 pound lean ground beef",
+        "1 (.75 ounce) packet dry brown gravy mix",
+        "1 (8 ounce) package cream cheese",
+        "1 (6 ounce) can chopped mushrooms, with liquid",
+        "1/2 cup milk",
+        "1 (8 ounce) container sour cream",
+        "2 (10.75 ounce) cans condensed cream of mushroom soup"
+      ],
+      "directions": [
+        "Bring a large pot of lightly salted water to a boil. Add egg noodles and cook for 8 to 10 minutes or until al dente; drain.",
+        "In a skillet over medium heat, brown the ground beef until no pink shows, about 5 minutes; drain fat.",
+        "Mix brown gravy, cream cheese, and mushrooms with hamburger, stirring until cream cheese melts. Add milk, sour cream, and mushroom soup to cooked pasta. Blend hamburger mixture with pasta."
+      ],
+      "illustration": "simple_hamburger_stroganoff.png",
+      "versions": []
+    },
+    {
+      "id": "2",
+      "title": "Tofu and Veggies in Peanut Sauce",
+      "meta": {
+          "date": "",
+          "author": "Anne Buchanan",
+          "link": "https://www.allrecipes.com/recipe/25312/tofu-and-veggies-in-peanut-sauce/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+      },
+      "description": "Easy, quick, and tasty meal. A favorite in our household.",
+      "ingredients": [
+        "1 tablespoon peanut oil",
+        "1 small head broccoli, chopped",
+        "1 small red bell pepper, chopped",
+        "5 fresh mushrooms, sliced",
+        "1 pound firm tofu, cubed",
+        "1/2 cup peanut butter",
+        "1/2 cup hot water",
+        "2 tablespoons vinegar",
+        "2 tablespoons soy sauce",
+        "1 1/2 tablespoons molasses",
+        "ground cayenne pepper to taste"
+      ],
+      "directions": [
+        "Heat oil in a large skillet or wok over medium-high heat. Saute broccoli, red bell pepper, mushrooms and tofu for 5 minutes.",
+        "In a small bowl combine peanut butter, hot water, vinegar, soy sauce, molasses and cayenne pepper. Pour over vegetables and tofu. Simmer for 3 to 5 minutes, or until vegetables are tender crisp."
+      ],
+      "illustration": "tofu_and_veggies_in_peanut_sauce.jpg",
+      "versions": []
+    },
+    {
+      "id": "3",
+      "title": "Four-Ingredient Red Curry Chicken",
+      "meta": {
+        "date": "",
+        "author": "Culinary Envy",
+        "link": "https://www.allrecipes.com/recipe/261479/four-ingredient-red-curry-chicken/?internalSource=hub%20recipe&referringContentType=search%20results&clickId=cardslot%201"
+      },
+      "description": "Four-ingredient red curry chicken with noodles is easy, quick, and inexpensive to make. Sweetened with coconut milk for unbelievable flavor! Top with chopped cilantro, green onions, and red chile peppers if desired.",
+      "ingredients": [
+        "2 tablespoons coconut oil",
+        "1 (16 ounce) package skinless, boneless chicken breast halves, cut into small cubes",
+        "1 (14 ounce) can cream of coconut (such as Trader Joe's® Extra Thick and Rich)",
+        "1 (11 ounce) bottle red Thai curry sauce (such as Trader Joe's®)",
+        "1/2 (16 ounce) package dried rice stick vermicelli noodles"
+      ],
+      "directions": [
+        "Heat oil in a large skillet on high heat. Add chicken cubes; cook until browned, about 2 minutes per side. Reduce heat to medium-high and add coconut cream and curry sauce. Cook until chicken is no longer pink in the center and the juices run clear, about 5 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).",
+        "Fill a large pot with lightly salted water and bring to a rolling boil; stir in vermicelli pasta and return to a boil. Cook pasta uncovered, stirring occasionally, until the pasta is tender yet firm to the bite, 4 to 5 minutes. Drain.",
+        "Reduce skillet heat to simmer. Add the noodles and let simmer until flavors are absorbed, about 5 minutes. Divide chicken and noodles among individual serving bowls."
+      ],
+      "illustration": "four_ingredient_red_curry_chicken.jpg",
+      "versions": []
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 module.exports = {
+    "parser": "babel-eslint",
     "env": {
         "browser": true,
         "es6": true,
@@ -23,6 +24,7 @@ module.exports = {
         "destructuring"
     ],
     "rules": {
+        "strict": 0,
         "indent": [
             "error",
             4,

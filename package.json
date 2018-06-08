@@ -7,8 +7,8 @@
     "start": "node src/server/index.js",
     "build": "webpack --mode production",
     "client": "webpack-dev-server --mode development --devtool inline-source-map --hot",
-    "server": "nodemon src/server/index.js",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "server": "nodemon src/server/index.js --exec babel-node --presets env,react,stage-2",
+    "dev": "webpack --mode development --devtool inline-source-map"
   },
   "repository": {
     "type": "git",
@@ -21,16 +21,25 @@
   },
   "homepage": "https://github.com/NtonBala/cookbook#readme",
   "dependencies": {
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mongodb": "^2.2.25",
+    "node-sass-middleware": "^0.11.0",
+    "prop-types": "^15.6.1",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.1",
+    "superagent": "^3.8.3"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.3",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "clean-webpack-plugin": "^0.1.19",
     "concurrently": "^3.5.1",
     "css-loader": "^0.28.11",
